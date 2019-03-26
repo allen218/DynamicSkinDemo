@@ -14,8 +14,8 @@ import java.lang.reflect.Method;
 import java.util.Observable;
 
 /**
- * @author Lance
- * @date 2018/3/8
+ * @author allen
+ * @date 2019/3/26
  */
 
 public class SkinManager extends Observable {

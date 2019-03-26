@@ -17,8 +17,8 @@ import java.util.Observable;
 import java.util.Observer;
 
 /**
- * @author Lance
- * @date 2018/3/8
+ * @author allen
+ * @date 2019/3/26
  */
 public class SkinLayoutInflaterFactory implements LayoutInflater.Factory2, Observer {
     private static final String[] mClassPrefixList = {

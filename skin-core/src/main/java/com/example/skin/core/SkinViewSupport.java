@@ -1,7 +1,7 @@
 package com.example.skin.core;
 
 /**
- * @author Lance
+ * @author allen
  * @date 2018/3/12
  */
 

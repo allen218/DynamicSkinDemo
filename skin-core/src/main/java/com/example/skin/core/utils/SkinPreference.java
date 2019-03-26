@@ -3,11 +3,6 @@ package com.example.skin.core.utils;
 import android.content.Context;
 import android.content.SharedPreferences;
 
-/**
- * @author Lance
- * @date 2018/3/8
- */
-
 public class SkinPreference {
     private static final String SKIN_SHARED = "skins";
 

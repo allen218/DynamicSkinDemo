@@ -13,8 +13,8 @@ import com.example.skin.core.utils.SkinThemeUtils;
 import java.lang.reflect.Field;
 
 /**
- * @author Lance
- * @date 2018/3/8
+ * @author allen
+ * @date 2019/3/26
  */
 
 public class SkinActivityLifecycle implements Application.ActivityLifecycleCallbacks {

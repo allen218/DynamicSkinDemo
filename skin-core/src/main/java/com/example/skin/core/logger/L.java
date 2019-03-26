@@ -3,8 +3,8 @@ package com.example.skin.core.logger;
 import android.util.Log;
 
 /**
- * @author Lance
- * @date 2018/3/8
+ * @author allen
+ * @date 2019/3/26
  */
 
 public class L {

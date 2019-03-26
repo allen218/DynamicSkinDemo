@@ -9,7 +9,7 @@ import android.os.Build;
 import com.example.skin.core.R;
 
 /**
- * @author Lance
+ * @author allen
  * @date 2018/3/9
  */
 
